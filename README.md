@@ -1,7 +1,7 @@
 **_📦 Baileys - `Bails-xyz`_**
 
 <p align="center">
-  <img src="https://files.catbox.moe/4fel4e.png" alt="Baileys-fedexyz" width="300"/>
+  <img src="https://github.com/dev-fedexyzz/base-bot/blob/main/imagen/icon.png" alt="Baileys-fedexyz" width="300"/>
 </p>
 
 Bienvenido al repositorio  del *Baileys: `Bails-xyz`*, una implementación personalizada del cliente WhatsApp usando la librería *@whiskeysockets/baileys*.
