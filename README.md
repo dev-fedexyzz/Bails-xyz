@@ -14,7 +14,7 @@ Bienvenido al repositorio  del *Baileys: `Bails-xyz`*, una implementación perso
 - Fácil integración con comandos personalizados
 - Compatible con sesiones en múltiples dispositivos
 
-`owner`
+*`CREATOR`*
 
 <a
 href="https://github.com/dev-fedexyzz"><img src="https://github.com/dev-fedexyzz.png" width="130" height="130" alt="Baileys"/></a>
